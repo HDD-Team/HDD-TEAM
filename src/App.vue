@@ -13,7 +13,7 @@
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <div v-for="member in team" :key="member.name" class="bg-white p-6 rounded-lg shadow-lg">
         <img
-          :src="`/images/${member.image}`"
+          :src="`public/images/${member.image}`"
           alt="team member"
           class="w-32 h-32 rounded-full mx-auto mb-4"
         />
