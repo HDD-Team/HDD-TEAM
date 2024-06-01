@@ -46,31 +46,31 @@ export default {
         {
           name: 'Бражко Денис',
           image: 'denis.jpg',
-          description: 'Тимлид, бэкенд разработчик, ML разработчик.',
+          description: 'Тимлид, бэкенд разработчик, ML разработчик',
           telegram: 'https://t.me/T1nnLD'
         },
         {
           name: 'Буренок Андрей',
           image: 'andrey.jpg',
-          description: 'Бэкенд разработчик, ML разработчик.',
+          description: 'Бэкенд разработчик, ML разработчик',
           telegram: 'https://t.me/Lord_Baranius'
         },
         {
           name: 'Шургин Никита',
           image: 'nikita.jpg',
-          description: 'ML разработчик.',
+          description: 'ML разработчик',
           telegram: 'https://t.me/whoa2ht'
         },
         {
           name: 'Гунько Даниил',
           image: 'daniil.jpg',
-          description: 'ML разработчик.',
+          description: 'ML разработчик',
           telegram: 'https://t.me/setsudanik'
         },
         {
           name: 'Далиба Богдан',
           image: 'bogdan.jpg',
-          description: 'Фронтенд разработчик, дизайнер, спикер.',
+          description: 'Фронтенд разработчик, дизайнер, спикер',
           telegram: 'https://t.me/Hogur'
         }
       ]
