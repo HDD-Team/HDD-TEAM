@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/HDD-TEAM/',
+  base: '/HDD-TEAM/', // Укажите ваш репозиторий
   plugins: [vue(), vueJsx()],
   resolve: {
     alias: {
