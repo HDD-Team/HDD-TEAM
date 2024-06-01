@@ -6,14 +6,14 @@
       создавать высококачественные и инновационные решения для наших клиентов.
     </p>
     <div class="text-center mt-12">
-      <a href="https://github.com/HDD-Team" target="_blank" class="text-blue-500 text-lg"
-        >GitHub команды</a
-      >
+      <a href="https://github.com/HDD-Team" target="_blank" class="text-blue-500 text-lg">
+        GitHub команды
+      </a>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <div v-for="member in team" :key="member.name" class="bg-white p-6 rounded-lg shadow-lg">
         <img
-          :src="`/images/${member.image}`"
+          :src="`/HDD-TEAM/images/${member.image}`"
           alt="team member"
           class="w-32 h-32 rounded-full mx-auto mb-4"
         />
