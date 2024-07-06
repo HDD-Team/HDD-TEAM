@@ -56,16 +56,16 @@ export default {
           telegram: 'https://t.me/Lord_Baranius'
         },
         {
-          name: 'Шургин Никита',
-          image: 'nikita.jpg',
-          description: 'ML разработчик',
-          telegram: 'https://t.me/whoa2ht'
+          name: 'Алипатов Иван',
+          image: 'ivan.jpg',
+          description: 'Бэкенд разработчик, ML, спикер',
+          telegram: 'https://t.me/tvivab'
         },
         {
-          name: 'Гунько Даниил',
-          image: 'daniil.jpg',
-          description: 'ML разработчик',
-          telegram: 'https://t.me/setsudanik'
+          name: 'Куприяненко Светлана',
+          image: 'svetlana.jpg',
+          description: 'Дизайнер',
+          telegram: 'https://t.me/Bloody_Zero'
         },
         {
           name: 'Далиба Богдан',
